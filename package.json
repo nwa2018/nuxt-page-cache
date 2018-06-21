@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-page-cache",
+  "version": "0.0.5",
+  "description": "nuxt页面级组件",
+  "main": "index.js",
+  "author": "fujuewen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwa2018/nuxt-page-cache.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nwa2018/nuxt-page-cache/issues"
+  },
+  "keywords": [
+    "nuxt"
+  ],
+  "homepage": "https://github.com/nwa2018/nuxt-page-cache#readme",
+  "dependencies": {
+    "lru-cache": "^4.1.3"
+  }
+}
